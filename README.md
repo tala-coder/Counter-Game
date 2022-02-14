@@ -25,7 +25,7 @@
     * Cilj je da polje “Current points” bude jednako “Targetpoints” polju.
     * Broj u zagradi je broj klikova na zeleno ili crveno dugme    
 14. Dugmici:
-    * Crveni dugmić: klikom na ovaj dugmić generiše se nekirandom broj [-20, -1]. Dobijeni
+    * Crveni dugmić: klikom na ovaj dugmić generiše se neki random broj [-20, -1]. Dobijeni
        broj prikazan je u polju iznad (na slici prikazanbroj 10) i trenutni bodovi (current points)
        se smanje za taj broj.
     * Zeleni dugmić: klikom na ovaj dugmić generiše se neki random broj [1, 20]. Dobijeni
@@ -33,7 +33,7 @@
        se povećaju za taj broj.
     * Plavi dugmić: klikom na ovaj dugmić prekida se igra i prikazuje se prva aktivnost
        (“Welcome activity”).     
-14. Cilj igre je da se na osnovu klikova crvenog i zelenogdugmića dostigne broj u polju “Target
+14. Cilj igre je da se na osnovu klikova crvenog i zelenog dugmića dostigne broj u polju “Target
     points”
 15. Prikazana polja nije moguće ručno promijeniti.
 16. U trenutku kada se izjednače “Target points” i “Currentpoints” polja:
